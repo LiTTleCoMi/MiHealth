@@ -52,6 +52,9 @@ main {
     padding-bottom: 80px;
     height: 100%;
     background-color: #dedede;
+    background-image: url(images/moroccan-flower.png);
+    background-size: auto;
+    background-repeat: repeat;
     gap: 0 50px;
 }
 .information-container {
